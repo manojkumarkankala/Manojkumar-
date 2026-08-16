@@ -108,6 +108,17 @@ Git & Deployment      █████████████░░░░░  Gi
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=manojkumarkankala&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=C9D1D9" width="100%"/>
 
 </div>
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=manojkumarkankala&show_icons=true&hide_border=true&bg_color=07111F&title_color=00D9C0&icon_color=00B8A9&text_color=E6FFFB" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manojkumarkankala&layout=compact&hide_border=true&bg_color=07111F&title_color=00D9C0&text_color=E6FFFB" height="170"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=manojkumarkankala&hide_border=true&background=07111F&ring=00D9C0&fire=00B8A9&currStreakLabel=E6FFFB&sideLabels=E6FFFB&dates=9BB7B3" width="75%"/>
+
+</div>
+
 ---
 
 ## 🐍 Contribution Snake
