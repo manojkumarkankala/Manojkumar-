@@ -107,10 +107,9 @@ Git & Deployment      █████████████░░░░░  Gi
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=swathiyara9-ai&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=C9D1D9" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=manojkumarkankala&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=C9D1D9" width="100%"/>
 
 </div>
-
 ---
 
 ## 🐍 Contribution Snake
