@@ -5,10 +5,10 @@
 
 <img src="assets/profile-placeholder.svg" width="150" alt="Profile photo placeholder"/>
 
-**Brilliant Institute of Engineering & Technology · 2023–2027**
+**Kasi Reddy Narayana Reddy Institute of Engineering & Technology · 2024–2028**
 
 [![GitHub](https://img.shields.io/badge/GitHub-manojkumarkankala-111827?style=for-the-badge&logo=github)](https://github.com/manojkumarkankala)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/manojkumarkankala/)
 [![Email](https://img.shields.io/badge/Email-Contact-14B8A6?style=for-the-badge&logo=gmail)](mailto:your-email@example.com)
 
 </div>
@@ -78,14 +78,14 @@ My goal is to become a strong software developer and build useful technology pro
 
 <div align="center">
 
-![GitHub contribution snake](https://raw.githubusercontent.com/manojkumarkankala/manojkumarkankala/output/github-contribution-grid-snake.svg)
+<img src="https://raw.githubusercontent.com/manojkumarkankala/manojkumarkankala/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
 
 </div>
 
 ## 📫 Connect With Me
 
 - **GitHub:** https://github.com/manojkumarkankala
-- **LinkedIn:** Add your personal LinkedIn URL here
+- **LinkedIn:** https://www.linkedin.com/in/manojkumarkankala/
 - **Email:** Add your professional email here
 
 ---
