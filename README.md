@@ -7,14 +7,14 @@
 <br/>
 
 ![B.Tech](https://img.shields.io/badge/B.Tech-CSE-00B8A9?style=for-the-badge&logo=bookstack&logoColor=white)
-![2023-2027](https://img.shields.io/badge/2023--2027-Student-0B3B4A?style=for-the-badge)
+![2024-2028](https://img.shields.io/badge/2023--2027-Student-0B3B4A?style=for-the-badge)
 ![India](https://img.shields.io/badge/India-07111F?style=for-the-badge&logo=googlemaps&logoColor=00D9C0)
 
 <br/><br/>
 
 <a href="https://github.com/manojkumarkankala"><img src="https://img.shields.io/badge/GitHub-Manoj%20Kumar-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:manojkumarkankala@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/manojkumarkankala/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:kankalamanojkumar@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 <br/>
 
@@ -27,9 +27,9 @@
 
 ## 👋 About Me
 
-Hi, I'm **Manoj Kumar**, a B.Tech Computer Science student at **Brilliant Institute of Engineering & Technology (2023–2027)**. I enjoy building useful web applications, learning new technologies, and turning real-world problems into practical software solutions.
+Hi, I'm **Manoj Kumar**, a B.Tech Computer Science student at **Kasi Reddy Narayan Reddy Institute of Engineering & Technology (2023–2027)**. I enjoy building useful web applications, learning new technologies, and turning real-world problems into practical software solutions.
 
-- 🎓 B.Tech Computer Science Engineering — 2023–2027
+- 🎓 B.Tech Computer Science Engineering — 2024–2028
 - 💻 Front-end / Web Development enthusiast
 - 🤖 Interested in AI/ML and Data Science
 - 🔐 Exploring Cyber Security
@@ -124,8 +124,8 @@ Git & Deployment      █████████████░░░░░  Gi
 <div align="center">
 
 <a href="https://github.com/manojkumarkankala"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github"/></a>
-<a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/></a>
-<a href="mailto:manojkumarkankala@gmail.com"><img src="https://img.shields.io/badge/Gmail-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/manojkumarkankala/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/></a>
+<a href="mailto:kankalamanojkumar@gmail.com"><img src="https://img.shields.io/badge/Gmail-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 </div>
 
