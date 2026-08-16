@@ -23,8 +23,6 @@
 <br/>
 
 <br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=swathiyara9-ai&style=flat-square&color=8b5cf6&label=Profile+Views)
 ![Followers](https://img.shields.io/github/followers/swathiyara9-ai?style=flat-square&color=6d28d9&labelColor=1e1e2f)
 ![Stars](https://img.shields.io/github/stars/swathiyara9-ai?style=flat-square&color=a78bfa&labelColor=1e1e2f)
 
@@ -34,7 +32,7 @@
 
 ## 👋 About Me
 
-Hi, I'm **Manoj Kumar**, a B.Tech Computer Science student at **Kasi Reddy Narayan Reddy Institute of Engineering & Technology (2023–2027)**. I enjoy building useful web applications, learning new technologies, and turning real-world problems into practical software solutions.
+Hi, I'm **Manoj Kumar**, a B.Tech Computer Science student at **Kasi Reddy Narayan Reddy Institute of Engineering & Technology (2024–2028)**. I enjoy building useful web applications, learning new technologies, and turning real-world problems into practical software solutions.
 
 - 🎓 B.Tech Computer Science Engineering — 2024–2028
 - 💻 Front-end / Web Development enthusiast
