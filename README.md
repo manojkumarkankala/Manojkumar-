@@ -20,6 +20,13 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=manojkumarkankala&style=flat-square&color=00B8A9&label=Profile+Views)
 ![GitHub followers](https://img.shields.io/github/followers/manojkumarkankala?style=flat-square&color=00B8A9&label=Followers)
+<br/>
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=swathiyara9-ai&style=flat-square&color=8b5cf6&label=Profile+Views)
+![Followers](https://img.shields.io/github/followers/swathiyara9-ai?style=flat-square&color=6d28d9&labelColor=1e1e2f)
+![Stars](https://img.shields.io/github/stars/swathiyara9-ai?style=flat-square&color=a78bfa&labelColor=1e1e2f)
 
 </div>
 
@@ -100,12 +107,7 @@ Git & Deployment      █████████████░░░░░  Gi
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=manojkumarkankala&show_icons=true&hide_border=true&bg_color=07111F&title_color=00D9C0&icon_color=00B8A9&text_color=E6FFFB" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manojkumarkankala&layout=compact&hide_border=true&bg_color=07111F&title_color=00D9C0&text_color=E6FFFB" height="170"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=manojkumarkankala&hide_border=true&background=07111F&ring=00D9C0&fire=00B8A9&currStreakLabel=E6FFFB&sideLabels=E6FFFB&dates=9BB7B3" width="75%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=swathiyara9-ai&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=C9D1D9" width="100%"/>
 
 </div>
 
@@ -114,10 +116,9 @@ Git & Deployment      █████████████░░░░░  Gi
 ## 🐍 Contribution Snake
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/manojkumarkankala/manojkumarkankala/output/github-contribution-grid-snake-dark.svg" width="95%"/>
+<img src="https://raw.githubusercontent.com/swathiyara9-ai/swathiyara9-ai/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </div>
 
----
 
 ## 🌐 Connect With Me
 
