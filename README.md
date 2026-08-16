@@ -7,7 +7,7 @@
 <br/>
 
 ![B.Tech](https://img.shields.io/badge/B.Tech-CSE-00B8A9?style=for-the-badge&logo=bookstack&logoColor=white)
-![2024-2028](https://img.shields.io/badge/2023--2027-Student-0B3B4A?style=for-the-badge)
+![2024-2028](https://img.shields.io/badge/2024--2028-Student-0B3B4A?style=for-the-badge)
 ![India](https://img.shields.io/badge/India-07111F?style=for-the-badge&logo=googlemaps&logoColor=00D9C0)
 
 <br/><br/>
